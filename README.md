@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @outbluee
+- 👋 Hi, I’m @Rafael
 - 👀 i'm interested in programming, at this point python has all my focus
 - 🌱 i'm learning phyton
 - 💞️ if you have any doubts about python maybe well maybe i can help you
